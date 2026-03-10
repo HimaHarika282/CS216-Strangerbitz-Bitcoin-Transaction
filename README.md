@@ -136,7 +136,7 @@ Fee Efficiency	Lower	Higher
 
 SegWit improves Bitcoin scalability by reducing transaction weight and enabling technologies such as the Lightning Network.
 
-How to Run the Project
+How to Run the Project:
 Start Bitcoin Core in regtest mode
 bitcoind -regtest
 Run Legacy Transaction Scripts
@@ -145,7 +145,8 @@ python part1/legacy_B_C.py
 Run SegWit Transaction Scripts
 python part2/segwit_A_B.py
 python part2/segwit_B_C.py
-Key Concepts Demonstrated
+
+Key Concepts Demonstrated:
 
 Bitcoin UTXO model
 

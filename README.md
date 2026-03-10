@@ -59,8 +59,7 @@ blockchain_ass2
 │ ├── segwit_A_B.py
 │ └── segwit_B_C.py
 │
-└── report
-└── Bitcoin_Transaction_Lab_Report.docx
+└── Bitcoin_Transaction_Lab_Report.pdf
 
 
 ---
